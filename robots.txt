@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chikitiro23-glitch.github.io/Chikiti-boom/sitemap.xml
